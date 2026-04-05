@@ -14,10 +14,73 @@ Como propuesta tentativa de solución, se plantea el uso de un electromiógrafo 
 
 El registro de datos se realiza durante trayectos reales en transporte público. Cada participante se monitorea dos veces al día para capturar variabilidad diaria .
 
+<u>Variables Esperadas</u>
+El Índice de Asimetría Muscular (IAM) se calcula como:
+
+$$
+IAM = \frac{\left| RMS_{derecho} - RMS_{izquierdo} \right|}{\frac{RMS_{derecho} + RMS_{izquierdo}}{2}} \times 100\%
+$$
+
+Un IAM >10-15% indica descompensación clínicamente relevante en literatura de simetría espinal; en grupos con carga asimétrica (como bolso), confirmaría la hipótesis [4].
+
+
+RMS normalizado se expresa como el porcentaje de la contracción voluntaria máxima (CVM), medida en posición estática antes del trayecto.
+
+
+Respecto al procesamiento de la señal adquirida, se tienen las siguientes etapas:
+
+### 1. Adquisición
+Se utiliza EMG superficial (sEMG) para el monitoreo de activación muscular. Para el caso del contexto planteado, se necesitan 4 canales: trapecio superior derecho, trapecio superior izquierdo, y opcionalmente erectores espinales bilaterales. Un número bajo de canales es suficiente para monitoreo muscular simple de manera eficiente [5].
+
+
 
 ## Plan de actividades
+### Fase 1: Preparación y marco ético
+
+Revisión del protocolo: Afinar criterios de inclusión (sin lesiones musculoesqueléticas, uso habitual de mochila/bolso).
+Consentimiento informado: Redactar y hacer firmar a cada compañero participante. Explicar procedimiento, riesgos mínimos y confidencialidad.
+Configuración del equipo: Verificar EMG (4 canales), electrodos, amplificador, ganancia (500-1000), filtros (20-500 Hz + notch 60 Hz).
+Prueba piloto: Ajustar colocación de electrodos (trapecios superiores + erectores espinales bilaterales).
+
+### Fase 2: Recolección de datos
+
+Registro de CVM: Medir contracción voluntaria máxima (CVM) en estática para normalizar RMS (%CVM).
+Recolección en campo: Cada participante es monitoreado 2 veces al día (mañana y tarde) en transporte público real.
+Toma de notas: Registrar el tipo de carga (mochila/bolso), lado de carga, duración del trayecto, condiciones (lleno, parado, sentado).
+Almacenar: Guardar señales crudas y etiquetar por participante, sesión, lado de carga.
+
+
+### Fase 3: Procesamiento de señales / información
+
+Filtrado: Aplicar filtro pasa-bandas (20-500 Hz) + notch (60 Hz) + rectificación completa.
+Ventana RMS: 	Usar ventana de 250 ms, paso 125 ms. Calcular RMS por canal.
+Promediado: Obtener un valor RMS promedio por músculo y por trayecto.
+Normalización: Dividir cada RMS entre la CVM del mismo músculo (%CVM).
+
+
+### Fase 4: Cálculo de IAM y análisis
+
+Cálculo de IAM: Aplicar la fórmula anteriormente planteada
+Clasificación: Identificar casos con IAM >10-15% (asimetría clínicamente relevante).
+Comparación de cargas: Separar grupos, mochila vs. bolso; lado ipsilateral vs. contralateral.
+Estadísticas: Boxplots del IAM, prueba t pareada u otra, según normalidad.
+
+
+### Fase 5: Interpretación y reporte
+
+Discusión:  Relacionar hallazgos con la literatura, usando referencias.
+Limitaciones: Señalar las limitaciones del estudio como tamaño de muestra reducido, variabilidad diaria, ruido ambiental en transporte.
+Conclusiones: ¿El transporte asimétrico genera IAM elevado en estudiantes? ¿En qué músculos más?
+Preparación de entrega:  Realizar el póster e informe para la entrega final del curso. 
 
 
 ## Referencias
-[1] S.-H. Cho, J.-H. Lee, and C.-Y. Kim, “The changes of electromyography in the upper trapezius and supraspinatus of women college students according to the method of bag-carrying and weight,” *J. Phys. Ther. Sci.*, vol. 25, no. 9, pp. 1129–1131, Sep. 2013, doi: 10.1589/jpts.25.1129.
-[2] J.-G. Yoon, “Correlations between muscle activities and strap length and types of school bag during walking,” *J. Phys. Ther. Sci.*, vol. 26, no. 12, pp. 1937–1939, Dec. 2014, doi: 10.1589/jpts.26.1937.
+[1] M. H. Kim, J. H. Kim, and J. S. Shim, "The changes of electromyography in the upper trapezius and supraspinatus of women college students according to the method of bag-carrying and weight," J. Phys. Ther. Sci., vol. 25, no. 9, pp. 1129–1131, Oct. 2013. doi: 10.1589/jpts.25.1129. https://pmc.ncbi.nlm.nih.gov/articles/PMC3818749/
+
+[2] S. H. Kim and J. H. Oh, "Correlations between muscle activities and strap length and types of school bag during walking," J. Phys. Ther. Sci., vol. 26, no. 12, pp. 1937–1939, Dec. 2014. doi: 10.1589/jpts.26.1937. https://pmc.ncbi.nlm.nih.gov/articles/PMC4273062/
+
+[3] L. Y. Guo et al., "Comparison of the electromyographic activation level and unilateral selectivity of erector spinae during different selected movements," Int. J. Rehabil. Res., vol. 35, no. 4, pp. 345–351, Dec. 2012. doi: 10.1097/MRR.0b013e32835641c0. https://pubmed.ncbi.nlm.nih.gov/22785046/
+
+[4] D. Rojas-Valverde, A. Sánchez García, D. Sáez Ulloa, and R. Gutiérrez-Vargas, "Does osteopathic manipulation lead to improvements in physical and muscle mechanical function and spinal symmetries in golfers?," Kronos, vol. 18, no. 1–2, Jan. 2019. doi: 10.64197/Kronos.18.01-02.863. https://erevistas.universidadeuropea.com/index.php/kronos/article/view/863
+
+[5] L. A. G. Rodriguez, J. M. A. P. Gutierrez, and F. J. L. Hernandez, "Myoelectric interfaces and related applications: Current state of EMG signal processing – A systematic review," IEEE Access, vol. 8, pp. 7792–7805, Jan. 2020. doi: 10.1109/ACCESS.2020.2964222. https://ieeexplore.ieee.org/abstract/document/8949764
