@@ -31,8 +31,7 @@ Respecto al procesamiento de la señal adquirida, se tienen las siguientes etapa
 
 ### 1. Adquisición
 Se utiliza EMG superficial (sEMG) para el monitoreo de activación muscular. Para el caso del contexto planteado, se necesitan 4 canales: trapecio superior derecho, trapecio superior izquierdo, y opcionalmente erectores espinales bilaterales. Un número bajo de canales es suficiente para monitoreo muscular simple de manera eficiente [5].
-
-
+![img_adquisicion](https://github.com/user-attachments/assets/67b5c867-d91f-4143-be6f-763d94df5a61)
 
 ## Plan de actividades
 ### Fase 1: Preparación y marco ético
