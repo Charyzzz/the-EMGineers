@@ -68,41 +68,41 @@ Por último, usando los valores obtenidos de RMS, se calcula el IAM.
 
 ### Fase 1: Preparación y marco ético
 
-Revisión del protocolo: Afinar criterios de inclusión (sin lesiones musculoesqueléticas, uso habitual de mochila/bolso).
-Consentimiento informado: Redactar y hacer firmar a cada compañero participante. Explicar procedimiento, riesgos mínimos y confidencialidad.
-Configuración del equipo: Verificar EMG (4 canales), electrodos, amplificador, ganancia (500-1000), filtros (20-500 Hz + notch 60 Hz).
-Prueba piloto: Ajustar colocación de electrodos (trapecios superiores + erectores espinales bilaterales).
+- Revisión del protocolo: Afinar criterios de inclusión (sin lesiones musculoesqueléticas, uso habitual de mochila/bolso).
+- Consentimiento informado: Redactar y hacer firmar a cada compañero participante. Explicar procedimiento, riesgos mínimos y confidencialidad.
+- Configuración del equipo: Verificar EMG (4 canales), electrodos, amplificador, ganancia (500-1000), filtros (20-500 Hz + notch 60 Hz).
+- Prueba piloto: Ajustar colocación de electrodos (trapecios superiores + erectores espinales bilaterales).
 
 ### Fase 2: Recolección de datos
 
-Registro de CVM: Medir contracción voluntaria máxima (CVM) en estática para normalizar RMS (%CVM).
-Recolección en campo: Cada participante es monitoreado 2 veces al día (mañana y tarde) en transporte público real.
-Toma de notas: Registrar el tipo de carga (mochila/bolso), lado de carga, duración del trayecto, condiciones (lleno, parado, sentado).
-Almacenar: Guardar señales crudas y etiquetar por participante, sesión, lado de carga.
+- Registro de CVM: Medir contracción voluntaria máxima (CVM) en estática para normalizar RMS (%CVM).
+- Recolección en campo: Cada participante es monitoreado 2 veces al día (mañana y tarde) en transporte público real.
+- Toma de notas: Registrar el tipo de carga (mochila/bolso), lado de carga, duración del trayecto, condiciones (lleno, parado, sentado).
+- Almacenar: Guardar señales crudas y etiquetar por participante, sesión, lado de carga.
 
 
 ### Fase 3: Procesamiento de señales / información
 
-Filtrado: Aplicar filtro pasa-bandas (20-500 Hz) + notch (60 Hz) + rectificación completa.
-Ventana RMS: 	Usar ventana de 250 ms, paso 125 ms. Calcular RMS por canal.
-Promediado: Obtener un valor RMS promedio por músculo y por trayecto.
-Normalización: Dividir cada RMS entre la CVM del mismo músculo (%CVM).
+- Filtrado: Aplicar filtro pasa-bandas (20-500 Hz) + notch (60 Hz) + rectificación completa.
+- Ventana RMS: 	Usar ventana de 250 ms, paso 125 ms. Calcular RMS por canal.
+- Promediado: Obtener un valor RMS promedio por músculo y por trayecto.
+- Normalización: Dividir cada RMS entre la CVM del mismo músculo (%CVM).
 
 
 ### Fase 4: Cálculo de IAM y análisis
 
-Cálculo de IAM: Aplicar la fórmula anteriormente planteada
-Clasificación: Identificar casos con IAM >10-15% (asimetría clínicamente relevante).
-Comparación de cargas: Separar grupos, mochila vs. bolso; lado ipsilateral vs. contralateral.
-Estadísticas: Boxplots del IAM, prueba t pareada u otra, según normalidad.
+- Cálculo de IAM: Aplicar la fórmula anteriormente planteada
+- Clasificación: Identificar casos con IAM >10-15% (asimetría clínicamente relevante).
+- Comparación de cargas: Separar grupos, mochila vs. bolso; lado ipsilateral vs. contralateral.
+- Estadísticas: Boxplots del IAM, prueba t pareada u otra, según normalidad.
 
 
 ### Fase 5: Interpretación y reporte
 
-Discusión:  Relacionar hallazgos con la literatura, usando referencias.
-Limitaciones: Señalar las limitaciones del estudio como tamaño de muestra reducido, variabilidad diaria, ruido ambiental en transporte.
-Conclusiones: ¿El transporte asimétrico genera IAM elevado en estudiantes? ¿En qué músculos más?
-Preparación de entrega:  Realizar el póster e informe para la entrega final del curso. 
+- Discusión:  Relacionar hallazgos con la literatura, usando referencias.
+- Limitaciones: Señalar las limitaciones del estudio como tamaño de muestra reducido, variabilidad diaria, ruido ambiental en transporte.
+- Conclusiones: ¿El transporte asimétrico genera IAM elevado en estudiantes? ¿En qué músculos más?
+- Preparación de entrega:  Realizar el póster e informe para la entrega final del curso. 
 
 
 ## Referencias
