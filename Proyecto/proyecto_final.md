@@ -65,6 +65,7 @@ Por último, usando los valores obtenidos de RMS, se calcula el IAM.
 ## Plan de actividades
 ### Fase 1: Preparación y marco ético
 
+![img_adquisicion]https://github.com/Charyzzz/the-EMGineers-ISB-2026-I/blob/cdf885507e0dc13867e976d33f91f6b04b2f2020/Proyecto/Se%C3%B1ales%20plan%20de%20trabajo.jpg
 Revisión del protocolo: Afinar criterios de inclusión (sin lesiones musculoesqueléticas, uso habitual de mochila/bolso).
 Consentimiento informado: Redactar y hacer firmar a cada compañero participante. Explicar procedimiento, riesgos mínimos y confidencialidad.
 Configuración del equipo: Verificar EMG (4 canales), electrodos, amplificador, ganancia (500-1000), filtros (20-500 Hz + notch 60 Hz).
