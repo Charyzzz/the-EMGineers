@@ -136,7 +136,7 @@ Las señales adquiridas fueron pasadas a Python para plotear el momento de la co
 
 #### 2.5.4. Archivo de datos de las señales adquiridas
 -   [Documentos (.rar)](Laboratorios/documentos/documentos_signals.rar)
--   [Programa de ploteo (Jupyter Notebook)] (Laboratorios/documentos/ploteo_lab4.ipynb)
+-   [Programa de ploteo (Jupyter Notebook)](Laboratorios/documentos/ploteo_lab4.ipynb)
 
 ##  3. Discusión
 ### 3.1. Análisis de resultados
