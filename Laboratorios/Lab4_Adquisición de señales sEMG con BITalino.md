@@ -80,8 +80,9 @@ Las señales almacenadas se procesaron con un script en Google Colab y python pa
 Con ayuda del software OpenSignals (r)evolution se importaron las señales crudas tomadas en cada ejercicio con el fin de visualizarlas gráficamente. Esto nos sirve para identificar la morfología de la señal e identificar cambios en ella al reaccionar al movimiento de los músculos.
 
 **a. Ejercicio 1 – Curl de bíceps:**
-|  **Primera toma**  | **Segunda toma** | **Tercera toma** |
-|<img width="786" height="415" alt="primera_toma" src="https://github.com/user-attachments/assets/6559e8ae-c5b3-4740-bd0b-ebb116e0634d" /> |<img width="751" height="403" alt="segunda_toma" src="https://github.com/user-attachments/assets/bd78f8a6-5d9e-4fe4-9ea6-eabb752bf703" /> |<img width="749" height="399" alt="tercera_toma" src="https://github.com/user-attachments/assets/d77e09e5-85df-4734-912e-4fa5fa9222ea" /> |
+| **Primera toma** | **Segunda toma** | **Tercera toma** |
+|------------------|------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/6559e8ae-c5b3-4740-bd0b-ebb116e0634d" width="250"/> | <img src="https://github.com/user-attachments/assets/bd78f8a6-5d9e-4fe4-9ea6-eabb752bf703" width="250"/> | <img src="https://github.com/user-attachments/assets/d77e09e5-85df-4734-912e-4fa5fa9222ea" width="250"/> |
 **b. Ejercicio 2 - Curl martillo:**
 |  **Video**  | **Señal en OpenSignals** |
 |:------------:|:---------------:|:------------:|
