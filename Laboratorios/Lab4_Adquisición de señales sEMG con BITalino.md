@@ -83,6 +83,13 @@ Con ayuda del software OpenSignals (r)evolution se importaron las señales cruda
 | **Primera toma** | **Segunda toma** | **Tercera toma** |
 |------------------|------------------|------------------|
 | <img src="https://github.com/user-attachments/assets/6559e8ae-c5b3-4740-bd0b-ebb116e0634d" width="250"/> | <img src="https://github.com/user-attachments/assets/bd78f8a6-5d9e-4fe4-9ea6-eabb752bf703" width="250"/> | <img src="https://github.com/user-attachments/assets/d77e09e5-85df-4734-912e-4fa5fa9222ea" width="250"/> |
+| https://github.com/user-attachments/assets/e9a9ed3d-07c8-4932-99e1-79b0f457e0c5 | https://github.com/user-attachments/assets/eceda03f-e60c-4ec4-9cc7-454650f6fa4b | a |
+
+
+
+
+
+
 **b. Ejercicio 2 - Curl martillo:**
 |  **Video**  | **Señal en OpenSignals** |
 |:------------:|:---------------:|:------------:|
