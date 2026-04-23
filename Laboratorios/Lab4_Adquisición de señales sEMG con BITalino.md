@@ -122,7 +122,7 @@ La contracción voluntaria máxima (MVC) utilizada como referencia para la norma
 Durante ejercicios dinámicos como la sentadilla el movimiento del cable y los electrodos respecto a la piel genera artefactos de baja frecuencia. Si bien el filtro pasa-banda desde 20 Hz ayuda a mitigarlos, Winter señala que en contracciones dinámicas estos artefactos pueden solaparse con componentes reales de la señal, especialmente cuando la velocidad del movimiento es elevada [4].
 
 ### 3.3. Quiz
-In this section you can find some questions for you to work on during your Home Session and to explore the EMG sensor.
+En esta sección encontrarás algunas preguntas para que trabajes durante tu sesión en casa y explores el sensor EMG.
 
 - **Q1. Which are the significant frequencies for EMG acquisitions? Are they the same in all body areas such as facial area?**
 - **Q2. Which kind of filter is essential when working with EMG signals? Why do we need to apply such a filter?**
