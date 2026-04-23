@@ -16,7 +16,7 @@ Durante la práctica, se realizó la configuración del sistema de adquisición,
 #### Kit BITalino (r)evolution
 Plataforma integrada para adquisición de señales fisiológicas. Incluye:
 -   Placa BITalino (r)evolution
--   Electrodos:
+-   Electrodos
 -   Cable de 3 vías (para EMG/ECG/EEG) de 30 cm.
 -   Cable de 2 vías (para EDA) de 10 cm.
 -   Batería Li-Po 3.7 V, 500 mAh
@@ -39,22 +39,22 @@ Para cada músculo evaluado, se siguió el siguiente protocolo:
 **Músculos y ejercicios evaluados**
 Para el músculo Bíceps braquial:
 1.  **Ejercicio 1 – Curl de bíceps:**
--   Posición: Sentado, con el antebrazo apoyado sobre una mesa y el brazo en abducción de 90°.
--   Medición basal: 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
--   Ejecución: Desde la posición inicial de extensión completa del codo (0°), el sujeto realiza una flexión concéntrica hasta alcanzar 90° de flexión, sosteniendo una mancuerna de 2 kg.
--   Protocolo de repeticiones: Se realizan 5 repeticiones o más donde se realiza contracción y relajación (3 segundos cada uno). Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
+-   **Posición:** Sentado, con el antebrazo apoyado sobre una mesa y el brazo en abducción de 90°.
+-  ** Medición basal:** 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
+-   **Ejecución:** Desde la posición inicial de extensión completa del codo (0°), el sujeto realiza una flexión concéntrica hasta alcanzar 90° de flexión, sosteniendo una mancuerna de 2 kg.
+-   **Protocolo de repeticiones:** Se realizan 5 repeticiones o más donde se realiza contracción y relajación (3 segundos cada uno). Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
 2.  **Ejercicio 2 – Curl martillo:**
-- Posición: El sujeto se coloca en posición sentada, con el brazo extendido en posición vertical, pegado al torso, y el antebrazo en posición neutra (pulgar hacia arriba, palma orientada hacia el cuerpo).
--   Medición basal: 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
--   Ejecución: Utilizando la misma mancuerna, el sujeto realiza una flexión del codo desde aproximadamente 180° hasta 45°, manteniendo en todo momento el antebrazo en posición neutra.
--   Protocolo de repeticiones: Se realizan 5 repeticiones o más donde se realiza contracción y relajación (3 segundos cada uno). Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
+-   **Posición:** El sujeto se coloca en posición sentada, con el brazo extendido en posición vertical, pegado al torso, y el antebrazo en posición neutra (pulgar hacia arriba, palma orientada hacia el cuerpo).
+-   **Medición basal:** 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
+-   **Ejecución:** Utilizando la misma mancuerna, el sujeto realiza una flexión del codo desde aproximadamente 180° hasta 45°, manteniendo en todo momento el antebrazo en posición neutra.
+-   **Protocolo de repeticiones:** Se realizan 5 repeticiones o más donde se realiza contracción y relajación (3 segundos cada uno). Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
 
 Para el caso del músculo Cuádriceps femoral (miembro inferior):
 1.  **Ejercicio 1 – Sentadilla (cuádriceps):**
--   Posición: El sujeto se coloca de pie, en bipedestación, con los pies separados al ancho de los hombros.
--   Medición basal: 3 registros de 30 segundos, de pie en bipedestación estática (sin flexión de rodillas).
--   Ejecución: Desde la posición inicial con rodillas extendidas, el sujeto realiza una sentadilla controlada hasta alcanzar aproximadamente 90° de flexión de rodilla (muslos paralelos al suelo). Durante el movimiento, las rodillas se desplazan hacia adelante, sobrepasando ligeramente la línea de los pies, con el objetivo de incrementar la activación del cuádriceps.
--   Protocolo de repeticiones: Se realizan 5 repeticiones o más de sentadilla (fase excéntrica y concéntrica) de 4 segundos de duración, con descanso de 4 segundos entre cada repetición. Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
+-   **Posición:** El sujeto se coloca de pie, en bipedestación, con los pies separados al ancho de los hombros.
+-   **Medición basal:** 3 registros de 30 segundos, de pie en bipedestación estática (sin flexión de rodillas).
+-   **Ejecución:** Desde la posición inicial con rodillas extendidas, el sujeto realiza una sentadilla controlada hasta alcanzar aproximadamente 90° de flexión de rodilla (muslos paralelos al suelo). Durante el movimiento, las rodillas se desplazan hacia adelante, sobrepasando ligeramente la línea de los pies, con el objetivo de incrementar la activación del cuádriceps.
+-   **Protocolo de repeticiones:** Se realizan 5 repeticiones o más de sentadilla (fase excéntrica y concéntrica) de 4 segundos de duración, con descanso de 4 segundos entre cada repetición. Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
 
 **Procedimiento de adquisición**
 Para cada ejercicio se siguió el protocolo basado en el manual HomeGuide #1 de PLUX:
