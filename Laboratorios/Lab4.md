@@ -40,7 +40,7 @@ Para cada músculo evaluado, se siguió el siguiente protocolo:
 Para el músculo Bíceps braquial:
 1.  **Ejercicio 1 – Curl de bíceps:**
 -   **Posición:** Sentado, con el antebrazo apoyado sobre una mesa y el brazo en abducción de 90°.
--  ** Medición basal:** 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
+- **Medición basal:** 3 registros de 120 segundos cada uno, con el brazo relajado en extensión completa.
 -   **Ejecución:** Desde la posición inicial de extensión completa del codo (0°), el sujeto realiza una flexión concéntrica hasta alcanzar 90° de flexión, sosteniendo una mancuerna de 2 kg.
 -   **Protocolo de repeticiones:** Se realizan 5 repeticiones o más donde se realiza contracción y relajación (3 segundos cada uno). Se repite el proceso para obtener 3 mediciones del mismo ejercicio.
 2.  **Ejercicio 2 – Curl martillo:**
