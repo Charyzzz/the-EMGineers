@@ -5,8 +5,7 @@ El presente laboratorio trabajó la adquisición y análisis de señales bioméd
 Durante la práctica, se realizó la configuración del sistema de adquisición, el cual incluye la conexión Bluetooth módulo-computadora y configuración del programa. Posteriormente, se llevó a cabo la visualización y registro de las señales obtenidas, permitiendo su análisis tanto en tiempo real como mediante procesamiento posterior en Python.
 
 ## 2. Metodología
-### 2. 1. Objetivos
-
+### 2.1. Objetivos
 -   Adquirir señales biomédicas de EMG y ECG.
 -   Configurar correctamente el sistema BITalino.
 -   Extraer y procesar la información de las señales adquiridas mediante OpenSignals (r)evolution.
@@ -28,7 +27,7 @@ Plataforma integrada para adquisición de señales fisiológicas. Incluye:
 #### Laptop como módulo de procesamiento de datos
 Laptop con Windows 11 y el software OpenSignals (r)evolution instalado para la adquisición, visualización y almacenamiento de las señales.
 <div align="center">
-<img width="800" height="200" alt="opensignals_logo_small-1024x241" src="https://github.com/user-attachments/assets/606cad60-55d1-401c-9253-378ab69e5927" />
+<img width="650" height="150" alt="opensignals_logo_small-1024x241" src="https://github.com/user-attachments/assets/606cad60-55d1-401c-9253-378ab69e5927" />
 </div>
 
 ### 2.3. Sujetos de estudio
@@ -82,9 +81,8 @@ Con ayuda del software OpenSignals (r)evolution se importaron las señales cruda
 **a. Ejercicio 1 – Curl de bíceps:**
 | **Primera toma** | **Segunda toma** | **Tercera toma** |
 |------------------|------------------|------------------|
-| <img width="600" height="400" alt="primera_toma" src="https://github.com/user-attachments/assets/0c8353f8-30e7-4826-b307-2a681783e4b3" /> | <img src="https://github.com/user-attachments/assets/bd78f8a6-5d9e-4fe4-9ea6-eabb752bf703" width="600"/> | <img src="https://github.com/user-attachments/assets/d77e09e5-85df-4734-912e-4fa5fa9222ea" width="600"/> |
-| https://github.com/user-attachments/assets/e9a9ed3d-07c8-4932-99e1-79b0f457e0c5 | https://github.com/user-attachments/assets/eceda03f-e60c-4ec4-9cc7-454650f6fa4b | 
-https://github.com/user-attachments/assets/0762b003-6127-404a-99e5-076aec44c52a |
+| <img width="400" height="200" alt="primera_toma" src="https://github.com/user-attachments/assets/0c8353f8-30e7-4826-b307-2a681783e4b3" /> | <img src="https://github.com/user-attachments/assets/bd78f8a6-5d9e-4fe4-9ea6-eabb752bf703" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/d77e09e5-85df-4734-912e-4fa5fa9222ea" width="400" height="200"/> |
+| https://github.com/user-attachments/assets/e9a9ed3d-07c8-4932-99e1-79b0f457e0c5 | https://github.com/user-attachments/assets/eceda03f-e60c-4ec4-9cc7-454650f6fa4b | https://github.com/user-attachments/assets/0762b003-6127-404a-99e5-076aec44c52a |
 
 
 
@@ -92,20 +90,36 @@ https://github.com/user-attachments/assets/0762b003-6127-404a-99e5-076aec44c52a 
 **b. Ejercicio 2 - Curl martillo:**
 |  **Video**  | **Señal en OpenSignals** |
 |-------------|--------------------------|
-| https://github.com/user-attachments/assets/b9bd6c89-998f-4593-b312-d6b748f7e981 | <img width="400" height="250" alt="ejercicio2" src="https://github.com/user-attachments/assets/f492de79-dafb-459f-99fa-5381b54f6ee3" /> |
+| https://github.com/user-attachments/assets/b9bd6c89-998f-4593-b312-d6b748f7e981 | <img width="712" height="390" alt="ejercicio2" src="https://github.com/user-attachments/assets/f492de79-dafb-459f-99fa-5381b54f6ee3" /> |
+
+
 **c. Ejercicio 3 - Sentadilla:**
 |  **Video**  | **Señal en OpenSignals** |
+|-------------|--------------------------|
 | https://github.com/user-attachments/assets/308a993f-9b1d-4181-b3ce-323f7f5a97f6 | <img width="712" height="390" alt="ejercicio3" src="https://github.com/user-attachments/assets/073492d3-4db9-4deb-8bc5-57a44dd5a472" /> |
 
 #### 2.5.2. Ploteo de las señales en Python
 Las señales adquiridas fueron pasadas a Python para plotear el momento de la contracción muscular.
 
 **a. Ejercicio 1: Curl de bíceps**
+|  **Señal**  | **FFT** |
+|-------------|--------------------------|
+| <img width="589" height="451" alt="grap1" src="https://github.com/user-attachments/assets/4f19678b-542a-4d34-b15e-87f028f52a49" /> | <img width="577" height="448" alt="fft1" src="https://github.com/user-attachments/assets/3c009e72-c86f-4f15-aff9-efdf2f5d9786" /> |
+
+
 **b. Ejercicio 2: Curl martillo**
+|  **Señal**  | **FFT** |
+|-------------|--------------------------|
+| <img width="589" height="451" alt="grap1" src="https://github.com/user-attachments/assets/673f30f0-bd33-43c8-82e6-5caad54ff203" /> | <img width="577" height="448" alt="fft1" src="https://github.com/user-attachments/assets/db1f29d3-1172-4bec-bb5d-1078754a16dd" /> |
+
+
 **c. Ejercicio 3: Sentadilla**
+|  **Señal**  | **FFT** |
+|-------------|--------------------------|
+| <img width="584" height="443" alt="grap3" src="https://github.com/user-attachments/assets/ce65a018-3ffa-4839-8fad-1e1b80725939" /> | <img width="575" height="445" alt="fft3" src="https://github.com/user-attachments/assets/46a26249-9cb8-42f1-bd48-f61bdf08d79f" /> |
 
 #### 2.5.3. Archivo de datos de las señales adquiridas
--   Documentos
+-   Documentos (.txt)
 -   Programa de ploteo (Jupyter Notebook)
 
 ## 3. Discusión
