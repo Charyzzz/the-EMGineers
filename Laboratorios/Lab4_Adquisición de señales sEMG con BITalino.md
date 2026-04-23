@@ -20,7 +20,10 @@ Plataforma integrada para adquisición de señales fisiológicas. Incluye:
 -   Cable de 3 vías (para EMG/ECG/EEG) de 30 cm.
 -   Cable de 2 vías (para EDA) de 10 cm.
 -   Batería Li-Po 3.7 V, 500 mAh
-<img width="700" height="700" alt="bitalino_kit" src="https://github.com/user-attachments/assets/93c523c5-eeea-46d9-bde6-6dd9f19d75ca" />
+
+<div align="center">
+<img width="400" height="400" alt="bitalino_kit" src="https://github.com/user-attachments/assets/93c523c5-eeea-46d9-bde6-6dd9f19d75ca" />
+</div>
 
 #### Laptop como módulo de procesamiento de datos
 Laptop con Windows 11 y el software OpenSignals (r)evolution instalado para la adquisición, visualización y almacenamiento de las señales.
