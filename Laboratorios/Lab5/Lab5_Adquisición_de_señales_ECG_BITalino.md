@@ -88,8 +88,8 @@ Para cada derivación (I, II y III), se realizaron las siguientes mediciones:
 
  
 **Archivo de datos de las señales adquiridas**
--   Documentos
--   Programa de ploteo (Jupyter Notebook)
+-   Documentos (Laboratorios/documentos/documentos_lab5.rar)
+-   Programa de ploteo (Jupyter Notebook) (Laboratorios/documentos/ploteo_laboratorio_5.ipynb)
 
   
 ## 3. Resultados
