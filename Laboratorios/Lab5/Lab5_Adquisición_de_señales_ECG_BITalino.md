@@ -72,17 +72,26 @@ Figura 4. Ejemplo de señales de las derivaciones I, II y III (1).
 Figura 5. Imagen referencial de colocación de electrodos y sus derivadas (2).
 </div><br>
 
-** Adquisición de señales**
-Para cada derivación (I, II y III), se realizaron las siguientes mediciones:
+**Adquisición de señales**
+
+Para cada derivación (I, II y III), se realizaron las siguientes mediciones: <br>
+
 **1.  ECG basal**
-    Registro en reposo durante condiciones normales de respiración, minimizando el movimiento.
-**2.  Hiperventilación**  
-    El sujeto realizó inspiraciones largas y exhalaciones cortas, registrándose la señal ECG después de este proceso.
-**3.  Ejercicio físico**  
-    El sujeto realizó aproximadamente 2 minutos de burpees para inducir un aumento de la frecuencia cardíaca.  
-    Inmediatamente después del ejercicio, se registró la señal ECG.
-**4.  Hipoventilación**  
-    El sujeto contuvo la respiración el máximo tiempo posible luego de hacer ejercicio.
+
+Registro en reposo durante condiciones normales de respiración, minimizando el movimiento.
+
+**2.  Hiperventilación**
+
+El sujeto realizó inspiraciones largas y exhalaciones cortas, registrándose la señal ECG después de este proceso.
+
+**3.  Ejercicio físico**
+
+El sujeto realizó aproximadamente 2 minutos de burpees para inducir un aumento de la frecuencia cardíaca.
+Inmediatamente después del ejercicio, se registró la señal ECG.
+
+**4.  Hipoventilación**
+
+El sujeto contuvo la respiración el máximo tiempo posible luego de hacer ejercicio.
 
 ----------
 
