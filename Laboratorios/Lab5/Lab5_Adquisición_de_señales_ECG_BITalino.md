@@ -108,6 +108,12 @@ A continuación se muestran los resultados obtenidos ploteados en OpenSignals y 
 
 ### 3.1 Basal:
 
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/a2153011-9f26-4585-b11d-51e928f1f52c"></video>
+</div>
+
+
 <div align="center">
   
 | I Derivación |
@@ -148,6 +154,11 @@ Figura 8. Medición basal tercera derivación (DIII) en OpenSignals y Python.
 
 ### 3.2 Burpees:
 
+| I Derivación | II Derivación | III Derivación |
+|----------|----------|----------|
+| <video src="https://github.com/user-attachments/assets/51adfe92-670f-4f60-92ca-c90fce087dbb"></video> | <video src="https://github.com/user-attachments/assets/d318ad0f-5ce9-4069-924b-1e2d6932abb5"></video> | <video src="https://github.com/user-attachments/assets/041a84e6-8b04-4136-be6a-4eae6664429a"></video> |
+
+
 <div align="center">
   
 | I Derivación |
@@ -187,6 +198,11 @@ Figura 11. Medición después de burpees tercera derivación (DIII) en OpenSigna
 
 ### 3.3 Hiperventilación
 
+| I Derivación | II Derivación | III Derivación |
+|----------|----------|----------|
+| <video src="https://github.com/user-attachments/assets/7f0f7c2c-4d43-42e9-a371-bb9c13dd4534"></video> | <video src="https://github.com/user-attachments/assets/6aedacd3-f046-49d5-9740-51d996bc117a"></video> | <video src="https://github.com/user-attachments/assets/55dfdd0f-1ce6-402b-9637-ccd46910f5ea"></video> |
+
+
 <div align="center">
   
 | I Derivación |
@@ -224,6 +240,11 @@ Figura 14. Medición en hiperventilación tercera derivación (DIII) en OpenSign
 </div><br>
 
 ### 3.4 Hipoventilación
+
+| I Derivación | II Derivación | III Derivación |
+|----------|----------|----------|
+| <video src="https://github.com/user-attachments/assets/d00227fe-7776-4873-aa75-568450b4cd3e"></video> | <video src="https://github.com/user-attachments/assets/9d14b44f-d335-47a6-89c8-d782429b8e2e"></video> | <video src="https://github.com/user-attachments/assets/db631679-19da-46f4-b277-a74bda53528b"></video> |
+
 
 <div align="center">
   
