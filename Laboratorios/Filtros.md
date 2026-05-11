@@ -17,6 +17,7 @@ En este contexto, los filtros digitales constituyen herramientas esenciales para
 # 2. Tipos de Filtros Digitales
 <img width="1182" height="432" alt="Image" src="https://github.com/user-attachments/assets/66223dc6-a5e7-45f8-8d64-c45c4853e102" />
 <img width="1138" height="410" alt="image" src="https://github.com/user-attachments/assets/d4891caa-2d0c-4c84-9b4f-b78adfd3512f" />
+<div align="center">Figura 1. Señal base y sus componentes.</div>
 
 
 ## Código de generación de señal base
@@ -70,6 +71,7 @@ Su aplicación es amplia en señales ECG y EEG, donde el contenido espectral rel
 
 <img width="1195" height="503" alt="Image" src="https://github.com/user-attachments/assets/6bc51520-ac0c-4410-8c54-db0f8c143c27" />
 <img width="1162" height="441" alt="Image" src="https://github.com/user-attachments/assets/ec014c5d-9a9d-422a-85a2-d70ebef615bb" />
+<div align="center">Figura 2. Implementación de filtro pasa baja FIR y espectro (150 Hz). </div>
 
 ---
 
@@ -87,6 +89,7 @@ En señales EEG se emplea para eliminar componentes de muy baja frecuencia asoci
 | Implementación | IIR (preferente) |
 <img width="1155" height="493" alt="Image" src="https://github.com/user-attachments/assets/90c08305-cbea-442e-b4e0-4184275151a1" />
 <img width="1205" height="411" alt="Image" src="https://github.com/user-attachments/assets/ccb00d8a-22a5-4489-9197-3c9da5e44741" />
+<div align="center">Figura 3. Implementación de filtro pasa alta IIR Butterworth y espectro (20 Hz – orden 4). </div>
 
 ---
 
@@ -104,6 +107,7 @@ En señales EMG, donde la actividad muscular se distribuye principalmente entre 
 | Implementación | Combinación de filtros pasa alta y pasa baja |
 <img width="1241" height="585" alt="image" src="https://github.com/user-attachments/assets/a9b279ca-696b-40e6-a9f7-fb40af1cb149" />
 <img width="1177" height="413" alt="Image" src="https://github.com/user-attachments/assets/f285ae76-f9c6-4298-bb5b-eb053622415e" />
+<div align="center">Figura 4. Implementación de filtro pasa banda IIR y espectro (20 - 450 Hz – orden 4). </div>
 
 ---
 
@@ -121,6 +125,7 @@ La frecuencia de interferencia varía según la región geográfica: 50 Hz en Eu
 | Implementación | IIR (alta selectividad) |
 <img width="1237" height="543" alt="Image" src="https://github.com/user-attachments/assets/d7e4208e-ce7f-4963-9877-b5ad6190f08b" />
 <img width="1197" height="416" alt="Image" src="https://github.com/user-attachments/assets/f14f47a9-b0ce-4b9a-a289-f943d86204ac" />
+<div align="center">Figura 5. Implementación de filtro Notch IIR (60 Hz). </div>
 
 ---
 
@@ -138,6 +143,7 @@ Su principal aplicación es la remoción de artefactos oculares en registros EEG
 | Implementación | Algoritmos LMS o RLS |
 <img width="1271" height="582" alt="Image" src="https://github.com/user-attachments/assets/2e72b0b2-f680-4413-904f-f65fd8ffecc7" />
 <img width="1255" height="347" alt="Image" src="https://github.com/user-attachments/assets/25425db1-7ede-44a3-8bc0-a5762ccbb3b2" />
+<div align="center">Figura 6. Implementación de filtro adaptativo LMS (60 Hz). </div>
 
 ---
 
@@ -155,6 +161,7 @@ Su respuesta gradual en la banda de transición lo hace apropiado para aplicacio
 | Implementación | IIR (respuesta plana en banda de paso) |
 <img width="1227" height="517" alt="Image" src="https://github.com/user-attachments/assets/99a6fd30-4b3a-4f54-8a30-8e3321303996" />
 <img width="1198" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2066e13-8501-4486-90b5-f149b35e9645" />
+<div align="center">Figura 7. Implementación de filtro Butterworth pasa banda (0.5 - 150 Hz – orden 4). </div>
 
 ---
 
@@ -172,6 +179,7 @@ Su principal limitación es la falta de selectividad frecuencial fina: la frecue
 | Implementación | FIR no recursivo |
 <img width="1267" height="557" alt="Image" src="https://github.com/user-attachments/assets/43dbe572-2191-42bd-a802-1ce2594e5548" />
 <img width="1247" height="432" alt="Image" src="https://github.com/user-attachments/assets/e4f3fd42-0c0e-470e-ac57-11cac7d3bf1e" />
+<div align="center">Figura 8. Implementación de filtro de media móvil (15 muestras). </div>
 
 ---
 
