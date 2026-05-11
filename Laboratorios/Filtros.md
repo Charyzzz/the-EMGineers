@@ -16,6 +16,8 @@ En este contexto, los filtros digitales constituyen herramientas esenciales para
 
 # 2. Tipos de Filtros Digitales
 <img width="1182" height="432" alt="Image" src="https://github.com/user-attachments/assets/66223dc6-a5e7-45f8-8d64-c45c4853e102" />
+<img width="1138" height="410" alt="image" src="https://github.com/user-attachments/assets/d4891caa-2d0c-4c84-9b4f-b78adfd3512f" />
+
 
 ## Código de generación de señal base
 
