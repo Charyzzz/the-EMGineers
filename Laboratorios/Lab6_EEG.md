@@ -142,9 +142,8 @@ El participante permaneció con los ojos cerrados y cubiertos, evitando movimien
 
 ## 2.5 Archivos utilizados
 
-- Archivo de datos de las señales adquiridas  
-- Documentos del laboratorio  
-- Programa de procesamiento y ploteo en Jupyter Notebook  
+- Documentos (Laboratorios/documentos/documentos_lab6.rar)
+- Programa de ploteo (Jupyter Notebook) (Laboratorios/documentos/ploteo_laboratorio_6.ipynb)
 
 ---
 
@@ -155,6 +154,10 @@ A continuación, se muestran los resultados obtenidos mediante procesamiento en 
 ---
 
 ## 3.1 EEG basal
+
+
+https://github.com/user-attachments/assets/fe1bc717-b233-4f70-b79e-a32921b433b7
+
 
 <div align="center">
 <img width="602" height="232" alt="eeg3" src="https://github.com/user-attachments/assets/13fc6e34-ddf9-4d1f-bfd1-628476b478cb" />
@@ -172,6 +175,10 @@ Figura 6. FFT EEG basal.
 
 ## 3.2 EEG con ojos abiertos
 
+
+https://github.com/user-attachments/assets/4b932008-85e7-4167-9c71-16bf6d2e4ee9
+
+
 <div align="center">
 <img width="602" height="232" alt="eeg5" src="https://github.com/user-attachments/assets/3e566354-bf55-4579-b2cc-11d996d10b61" />
 </div>
@@ -187,6 +194,8 @@ Figura 8. FFT EEG con ojos abiertos.
 </div><br>
 
 ## 3.3 EEG basal posterior a ojos abiertos
+
+https://github.com/user-attachments/assets/6584e296-a505-4874-bf88-df4f4d8ffe25
 
 <div align="center">
 <img width="602" height="232" alt="eeg7" src="https://github.com/user-attachments/assets/587591bd-1b34-4eed-8182-f5b8200882e2" />
@@ -220,6 +229,10 @@ Figura 12. FFT EEG con parpadeo y masticación constante.
 
 ## 3.5 EEG basal posterior a parpadeo y masticación constante
 
+
+https://github.com/user-attachments/assets/37d68a8d-ac2e-41cb-9c33-82eda981e3d1
+
+
 <div align="center">
 <img width="602" height="235" alt="eeg11" src="https://github.com/user-attachments/assets/eb10963c-6b69-4e70-b029-c8c1fca8715e" />
 </div>
@@ -235,6 +248,9 @@ Figura 14. FFT EEG basal posterior a parpadeo y masticación constante.
 </div><br>
 
 ## 3.6 Toma libre
+
+https://github.com/user-attachments/assets/673c1133-4ec7-42dc-95b1-f488992f9a86
+
 
 ### Música relajante
 
