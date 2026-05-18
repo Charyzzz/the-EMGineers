@@ -24,13 +24,23 @@ El kit utilizado corresponde a una plataforma todo-en-uno que contiene distintos
 - Cable de 2 vías (para EDA) de 10 cm  
 - Batería Li-Po 3.7 V, 500 mAh  
 
-**Figura 1.** Kit BITalino.
+<div align="center">
+<img width="400" height="400" alt="bitalino_kit" src="https://github.com/user-attachments/assets/93c523c5-eeea-46d9-bde6-6dd9f19d75ca" />
+</div>
+<div align="center">  
+Figura 1. Kit BITalino
+</div><br>
 
 ### Laptop como módulo de procesamiento de datos
 
 Se utilizó una laptop con Windows 11 y el software OpenSignals (r)evolution instalado para la adquisición, visualización y almacenamiento de las señales fisiológicas.
 
-**Figura 2.** Software OpenSignals.
+<div align="center">
+<img width="650" height="150" alt="opensignals_logo_small-1024x241" src="https://github.com/user-attachments/assets/606cad60-55d1-401c-9253-378ab69e5927" />
+</div>
+<div align="center">  
+Figura 2. Software OpenSignals
+</div><br>
 
 ---
 
@@ -48,10 +58,22 @@ Se trabajó con una derivación reducida frontal referencial, conformada por tre
 - Frontal parietal 2 (Fp2) – Electrodo 2 (negro)  
 - Occipital 2 (O2) – Electrodo 3 (blanco), utilizado como tierra  
 
-**Figura 3.** Ubicación de los nodos en un EEG estándar.  
+<div align="center">
+<img width="390" height="388" alt="eeg1" src="https://github.com/user-attachments/assets/477d9520-8506-4d88-9ec8-542171bcca4b" />
+</div>
+<div align="center">  
+Figura 3. Ubicación de los nodos en un EEG estándar. 
+</div><br>
+
+
 F = frontal, Fp = frontal parietal, Fz = frontal medio, T = temporal, C = central, Cz = central medio, O = occipital y P = parietal.
 
-**Figura 4.** Ejemplo de serie temporal correspondiente al EEG estándar de un paciente sano con los ojos abiertos.
+<div align="center">
+<img width="349" height="266" alt="eeg2" src="https://github.com/user-attachments/assets/673b2d10-b31b-40e9-a79f-36dd52a2660f" />
+</div>
+<div align="center">  
+Figura 4. Ejemplo de serie temporal correspondiente al EEG estándar de un paciente sano con los ojos abiertos.
+</div><br>
 
 ---
 
@@ -134,45 +156,117 @@ A continuación, se muestran los resultados obtenidos mediante procesamiento en 
 
 ## 3.1 EEG basal
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="232" alt="eeg3" src="https://github.com/user-attachments/assets/13fc6e34-ddf9-4d1f-bfd1-628476b478cb" />
+</div>
+<div align="center">  
+Figura 5. EEG basal.
+</div><br>
 
----
+<div align="center">
+<img width="602" height="273" alt="eeg4" src="https://github.com/user-attachments/assets/b0149136-c7f6-4631-9723-8bea6f38925c" />
+</div>
+<div align="center">  
+Figura 6. FFT EEG basal.
+</div><br>
 
 ## 3.2 EEG con ojos abiertos
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="232" alt="eeg5" src="https://github.com/user-attachments/assets/3e566354-bf55-4579-b2cc-11d996d10b61" />
+</div>
+<div align="center">  
+Figura 7. EEG con ojos abiertos.
+</div><br>
 
----
+<div align="center">
+<img width="602" height="271" alt="eeg6" src="https://github.com/user-attachments/assets/4c396fb5-0bb8-4463-9c85-adc1f0d3593f" />
+</div>
+<div align="center">  
+Figura 8. FFT EEG con ojos abiertos.
+</div><br>
 
 ## 3.3 EEG basal posterior a ojos abiertos
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="232" alt="eeg7" src="https://github.com/user-attachments/assets/587591bd-1b34-4eed-8182-f5b8200882e2" />
+</div>
+<div align="center">  
+Figura 9. EEG basal posterior a ojos abiertos.
+</div><br>
 
----
+<div align="center">
+<img width="602" height="273" alt="eeg8" src="https://github.com/user-attachments/assets/1e250ffc-3339-48af-96b3-5076b79dadea" />
+</div>
+<div align="center">  
+Figura 10. FFT EEG basal posterior a ojos abiertos.
+</div><br>
 
 ## 3.4 EEG con parpadeo y masticación constante
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="235" alt="eeg9" src="https://github.com/user-attachments/assets/6b693c9f-3283-4648-b9de-32815eb6f304" />
+</div>
+<div align="center">  
+Figura 11. EEG con parpadeo y masticación constante.
+</div><br>
 
----
+<div align="center">
+<img width="602" height="271" alt="eeg10" src="https://github.com/user-attachments/assets/aea74639-6582-4181-8650-adb9338a7910" />
+</div>
+<div align="center">  
+Figura 12. FFT EEG con parpadeo y masticación constante.
+</div><br>
 
 ## 3.5 EEG basal posterior a parpadeo y masticación constante
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="235" alt="eeg11" src="https://github.com/user-attachments/assets/eb10963c-6b69-4e70-b029-c8c1fca8715e" />
+</div>
+<div align="center">  
+Figura 13. EEG basal posterior a parpadeo y masticación constante.
+</div><br>
 
----
+<div align="center">
+<img width="602" height="271" alt="eeg12" src="https://github.com/user-attachments/assets/055c7499-62a4-4488-9e4b-60b510fa6ad2" />
+</div>
+<div align="center">  
+Figura 14. FFT EEG basal posterior a parpadeo y masticación constante.
+</div><br>
 
 ## 3.6 Toma libre
 
 ### Música relajante
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="233" alt="eeg13" src="https://github.com/user-attachments/assets/b618639b-a2c6-4646-84ca-56af8ed4a81e" />
+</div>
+<div align="center">  
+Figura 15. EEG toma libre (Música relajante).
+</div><br>
+
+<div align="center">
+<img width="602" height="271" alt="eeg14" src="https://github.com/user-attachments/assets/6ff61b5f-3414-40f0-bb0c-557a5bc35999" />
+</div>
+<div align="center">  
+Figura 16. FFT EEG toma libre (Música relajante).
+</div><br>
 
 ### Música estresante
 
-*(Insertar figura correspondiente)*
+<div align="center">
+<img width="602" height="232" alt="eeg15" src="https://github.com/user-attachments/assets/59297d5c-3c91-4e65-81f9-87a0f319fd8c" />
+</div>
+<div align="center">  
+Figura 17. EEG toma libre (Música estresante).
+</div><br>
 
----
+<div align="center">
+<img width="602" height="271" alt="eeg16" src="https://github.com/user-attachments/assets/cc02b4d4-80a9-496f-ba2d-740266dff05d" />
+</div>
+<div align="center">  
+Figura 18. FFT EEG toma libre (Música estresante).
+</div><br>
 
 # 4. Discusión
 
