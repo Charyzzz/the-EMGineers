@@ -198,8 +198,6 @@ Aunque el bloqueo alfa clásico suele evidenciar una disminución marcada de la 
 
 ## 4.3 Condiciones con parpadeo y masticación constante
 
-En esta condición se introdujeron deliberadamente artefactos fisiológicos con el objetivo de evidenciar su influencia sobre el registro EEG.
-
 El análisis espectral mostró un incremento muy marcado de actividad en la región de bajas frecuencias, principalmente entre 0 y 5 Hz. Esta elevada actividad se relaciona directamente con los potenciales generados por el parpadeo, ya que los movimientos oculares producen señales de gran amplitud que afectan especialmente a los electrodos ubicados en regiones frontales (4).
 
 Adicionalmente, la masticación produjo contaminación electromiográfica proveniente de la musculatura facial, generando distorsión de la señal cerebral y aumentando la amplitud general del registro (5).
@@ -208,11 +206,11 @@ Adicionalmente, la masticación produjo contaminación electromiográfica proven
 
 ## 4.4 Toma libre: música relajante vs. música estresante
 
-Durante la exposición a música relajante, el espectro FFT mostró una actividad predominante en frecuencias muy bajas, principalmente entre 0 y 2.5 Hz, mientras que el resto del espectro presentó amplitudes considerablemente menores. Esto sugiere un estado de relajación general y una menor activación cortical (7).
+Durante la exposición a música relajante, el espectro FFT mostró una actividad predominante en frecuencias muy bajas, principalmente entre 0 y 2.5 Hz, mientras que el resto del espectro presentó amplitudes considerablemente menores. Esto sugiere un estado de relajación general y una menor activación cortical, compatible con una disminución de la carga cognitiva y una mayor estabilidad fisiológica del participante (7).
 
-En contraste, la condición de música estresante presentó picos de amplitud mayores respecto a la condición relajante, aunque manteniendo la predominancia en el rango entre 0 y 2.5 Hz. A partir de este punto, la señal mostró una atenuación progresiva hacia frecuencias superiores.
+En contraste, la condición de música estresante presentó picos de amplitud mayores respecto a la condición relajante, aunque manteniendo la predominancia en el rango entre 0 y 2.5 Hz. A partir de este punto, la señal mostró una atenuación progresiva hacia frecuencias superiores. El incremento de amplitud observado podría relacionarse con una mayor activación emocional y cortical inducida por el estímulo auditivo, así como con posibles cambios fisiológicos involuntarios asociados al estrés, como tensión muscular o variaciones respiratorias (8).
+Si bien ambas condiciones mostraron predominancia en bajas frecuencias, la música estresante generó señales de mayor amplitud y variabilidad, lo cual coincide cualitativamente con estudios relacionados con respuestas emocionales y modulación cortical inducida por estímulos auditivos.
 
-El incremento de amplitud observado podría relacionarse con una mayor activación emocional y cortical inducida por el estímulo auditivo, así como con posibles cambios fisiológicos involuntarios asociados al estrés (8).
 
 ---
 
@@ -220,25 +218,25 @@ El incremento de amplitud observado podría relacionarse con una mayor activaci�
 
 ### ¿Qué banda de frecuencia predomina al cerrar los ojos?
 
-Al cerrar los ojos predomina la banda alfa (8–13 Hz), debido a la disminución de estímulos visuales y el aumento de sincronización neuronal cortical (1,2).
+Al cerrar los ojos predomina la banda alfa (8–13 Hz), fenómeno descrito originalmente por Berger y ampliamente documentado en la literatura neurofisiológica. La ausencia de estímulos visuales favorece la sincronización neuronal en regiones posteriores y frontales, generando un incremento de la potencia alfa observable en el EEG (1,2). En los registros basales obtenidos durante el laboratorio, el análisis FFT mostró una mayor concentración de energía en frecuencias compatibles con dicha banda.
 
 ---
 
 ### ¿Qué filtro es imprescindible para EEG y por qué?
 
-El filtro notch o rechaza-banda centrado en 50 o 60 Hz resulta indispensable para eliminar la interferencia de la red eléctrica, la cual puede alterar significativamente la señal EEG adquirida (9).
+Uno de los filtros más importantes en el procesamiento EEG es el filtro notch o rechaza-banda centrado en 50 o 60 Hz, dependiendo de la frecuencia de la red eléctrica local. Este filtro permite reducir significativamente la interferencia electromagnética proveniente del suministro eléctrico, la cual puede superar ampliamente la amplitud de la señal EEG y afectar la interpretación de los resultados (9). De manera complementaria, el uso de filtros pasa-alto y pasa-bajo permite eliminar deriva de línea base, componente DC y ruido de alta frecuencia asociado a actividad muscular y artefactos.
 
 ---
 
 ### ¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.
 
-Sí. La actividad EEG puede modificarse mediante cambios cognitivos o sensoriales. Un ejemplo es abrir y cerrar los ojos: al cerrarlos aumenta la actividad alfa y al abrirlos disminuye debido a la activación visual.
+Sí. La actividad EEG puede modularse conscientemente mediante cambios en el estado cognitivo o sensorial. Un ejemplo simple es abrir y cerrar los ojos: al cerrarlos aumenta la actividad alfa, mientras que al abrirlos esta disminuye debido a la activación visual. Del mismo modo, actividades que requieren atención o cálculo mental pueden incrementar la actividad beta frontal. Este principio es utilizado en técnicas de neurofeedback, donde el sujeto aprende a modificar determinados patrones cerebrales mediante retroalimentación en tiempo real (7).
 
 ---
 
 ### ¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?
 
-Sí. Las diferencias pueden deberse tanto a causas fisiológicas como técnicas, incluyendo diferencias hemisféricas funcionales, variaciones en la impedancia de contacto o influencia desigual de movimientos oculares (2,4).
+Pueden existir diferencias entre Fp1 y Fp2 tanto por causas fisiológicas como técnicas. Desde el punto de vista fisiológico, ambos hemisferios cerebrales presentan especializaciones funcionales distintas relacionadas con procesamiento emocional, cognitivo y lingüístico (2). Técnicamente, diferencias en impedancia de contacto, colocación de electrodos, adherencia o influencia desigual de movimientos oculares pueden generar variaciones entre ambos registros (4). En el presente laboratorio, la adquisición mediante un único canal limitó la comparación simultánea entre ambas posiciones.
 
 ---
 
